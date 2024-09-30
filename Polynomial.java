@@ -186,7 +186,7 @@ public class Polynomial {
 			}
 		}
 
-		if (j == upperBound) {
+		if (j + 1 == upperBound) {
 			return result;
 		}
 
